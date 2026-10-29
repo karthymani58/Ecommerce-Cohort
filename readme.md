@@ -1,7 +1,7 @@
 # 📊 Customer Cohort & Category LTV Analysis (< 999)
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue.svg)
-![Database](https://img.shields.io/badge/Engine-PostgreSQL%20%2F%20Redshift-orange.svg)
+![Database](https://img.shields.io/badge/Engine-PostgreSQL-orange.svg)
 ![Domain](https://img.shields.io/badge/Domain-E--commerce%20Analytics-green.svg)
 
 ## 📌 Overview
